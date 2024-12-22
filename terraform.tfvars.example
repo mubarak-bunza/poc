@@ -1,0 +1,3 @@
+github_token     = "mytoken"
+organization     = "myorg"
+repository_names = ["django_blog", "devfoundry"]
